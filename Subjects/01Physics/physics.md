@@ -21,19 +21,3 @@
 - [Dimensional analysis and its applications]()
 
 </details>
-<details><summary>Motion In A Straight Line</summary>
-<br>
-
-> Download the Full Note of "Motion In A Straight Line" 👇
-
-- [Motion In A Straight Line]()
-
-> Or, Download the Notes Concept wise 👇
-
-- [Introduction]()
-- [Instantaneous velocity and speed]()
-- [Acceleration]()
-- [Kinematic equations for uniformly accelerate motion]()
-</details>
-
-</details>
