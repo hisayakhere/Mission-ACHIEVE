@@ -1,10 +1,10 @@
-<details title="Notes"><summary>Notes</summary><br>
+<details title="Notes"><summary><b>Notes</b></summary><br>
 
 ***We'll study NCERT very well, and in terms of reference books we'll study & practice from Chhaya, Balaji Publication Books & Op-Tandon***
 
 > Select the Chapter and Download the Notes Chapter wise 👇
 
-<details title=""><summary>Some Basics Concepts of Chemistry</summary>
+<details><summary><em>Some Basics Concepts of Chemistry</em></summary>
 <br>
 
 > Download the Full Note of "Some Basics Concepts of Chemistry" 👇
@@ -26,4 +26,20 @@
 
 </details>
 
+</details>
+
+---
+<details title="Books"><summary><b>Books</b></summary>
+<subdetails><summary>NCERT</summary>
+
+- [Class 11 - Chemistry NCERT](https://raw.githubusercontent.com/hisayakhere/Mission-ACHIEVE/main/Subjects/02Chemistry/NCERT/Class11-ChemistryNCERT.pdf)
+- [Class 12 - Chemistry NCERT](https://raw.githubusercontent.com/hisayakhere/Mission-ACHIEVE/main/Subjects/02Chemistry/NCERT/Class12-ChemistryNCERT.pdf)
+
+</subdetails>
+<subdetails><summary>Op-Tandon</summary>
+
+- [Physical Chemistry](https://raw.githubusercontent.com/hisayakhere/Mission-ACHIEVE/main/Subjects/02Chemistry/OpTandon/OpTandon-Physical.pdf)
+- [Inorganic Chemistry](https://raw.githubusercontent.com/hisayakhere/Mission-ACHIEVE/main/Subjects/02Chemistry/OpTandon/OpTandon-Inorganic.pdf)
+- [Organic Chemistry](https://raw.githubusercontent.com/hisayakhere/Mission-ACHIEVE/main/Subjects/02Chemistry/OpTandon/OpTandon-Organic.pdf)
+</subdetails>
 </details>
