@@ -10,10 +10,10 @@ Mission ACHIEVE is our collaborative project to document, organize, and share ou
 
 > Choose the subject 👇
 
-- [**Physics**](01Physics/physics.md)
-- [**Chemistry**](02Chemistry/chemistry.md)
-- [**Mathematics**](03Mathematics/mathematics.md)
-- [**Biology**](04Biology/biology.md) (only for Sayak; Aishik is not taking Biology)
+- [**Physics**](Subjects/01Physics/physics.md)
+- [**Chemistry**](Subjects/02Chemistry/chemistry.md)
+- [**Mathematics**](Subjects/03Mathematics/mathematics.md)
+- [**Biology**](Subjects/04Biology/biology.md) (only for Sayak; Aishik is not taking Biology)
 
 > In this repository, you will find:
 
