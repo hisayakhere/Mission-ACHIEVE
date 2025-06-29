@@ -6,14 +6,16 @@ Hello! 👋 I’m Sayak, and together with Aishik, we’re embarking on **Missio
 
 ## About Mission ACHIEVE
 
-Mission ACHIEVE is our collaborative project to document, organize, and share our learning of Class 11 subjects:
+Mission ACHIEVE is our collaborative project to document, organize, and share our learning of Class 11 subjects.
 
-- **Physics**
-- **Chemistry**
-- **Mathematics**
-- **Biology** (only for Sayak; Aishik is not taking Biology)
+> Choose the subject 👇
 
-In this repository, you will find:
+- [**Physics**](01Physics/physics.md)
+- [**Chemistry**](02Chemistry/chemistry.md)
+- [**Mathematics**](03Mathematics/mathematics.md)
+- [**Biology**](04Biology/biology.md) (only for Sayak; Aishik is not taking Biology)
+
+> In this repository, you will find:
 
 - 📒 **Notes:** Detailed and structured notes for all subjects.
 - ✅ **To-Do & Progress:** Our study plans, daily goals, and progress tracking.
