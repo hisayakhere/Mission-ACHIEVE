@@ -7,7 +7,7 @@
 <details><summary><em>Sets</em></summary>
 <br>
 
-> Download the Full Note of "Some Basics Concepts of Chemistry" 👇
+> Download the Full Note of "Sets" 👇
 
 - [Sets]()
 
