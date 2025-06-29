@@ -1,4 +1,4 @@
-<details title="Notes"><summary>Notes</summary><br>
+## Notes
 
 ***We'll study NCERT very well, and in terms of reference books we'll study & practice from HC Verma, Chhaya, & DC Pandey***
 
