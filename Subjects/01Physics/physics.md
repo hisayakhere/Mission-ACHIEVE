@@ -1,6 +1,6 @@
 <details title="Notes"><summary>Notes</summary><br>
 
-***We'll study NCERT very well, and in terms of reference books we'll study from HC Verma, Chhaya, & DC Pandey***
+***We'll study NCERT very well, and in terms of reference books we'll study & practice from HC Verma, Chhaya, & DC Pandey***
 
 > Select the Chapter and Download the Notes Chapter wise 👇
 
