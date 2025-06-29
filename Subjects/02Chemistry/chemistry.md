@@ -1,4 +1,4 @@
-<details title="Notes"><summary><b>Notes</b></summary><br>
+## Notes
 
 ***We'll study NCERT very well, and in terms of reference books we'll study & practice from Chhaya, Balaji Publication Books & Op-Tandon***
 
@@ -29,7 +29,7 @@
 </details>
 
 ---
-<details title="Books"><summary><b>Books</b></summary>
+## Books
 <subdetails><summary>NCERT</summary>
 
 - [Class 11 - Chemistry NCERT](https://raw.githubusercontent.com/hisayakhere/Mission-ACHIEVE/main/Subjects/02Chemistry/NCERT/Class11-ChemistryNCERT.pdf)
