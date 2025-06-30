@@ -7,10 +7,6 @@
 <details><summary><em>Sets</em></summary>
 <br>
 
-> Download the Full Note of "Sets" 👇
-
-- [Sets]()
-
 > Question --> Theory 👇
 
 <details><summary>NCERT</summary>
