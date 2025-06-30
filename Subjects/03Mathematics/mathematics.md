@@ -11,9 +11,10 @@
 
 - [Sets]()
 
-> Exercises 👇
+> Question --> Theory 👇
 
-- [NCERT Exercise 1.1](https://raw.githubusercontent.com/hisayakhere/Mission-ACHIEVE/main/Subjects/03Mathematics/NCERT-Exercise1.1.pdf)
+- [NCERT Exercise 1.1](https://raw.githubusercontent.com/hisayakhere/Mission-ACHIEVE/main/Subjects/03Mathematics/NCERT-Exercise1.1.pdf) || [Theory](https://raw.githubusercontent.com/hisayakhere/Mission-ACHIEVE/main/Subjects/03Mathematics/Theory-NCERT-Exercise1.1.pdf)
+
 - [NCERT Exercise 1.2](https://raw.githubusercontent.com/hisayakhere/Mission-ACHIEVE/main/Subjects/03Mathematics/NCERT-Exercise1.2.pdf)
 - [NCERT Exercise 1.3](https://raw.githubusercontent.com/hisayakhere/Mission-ACHIEVE/main/Subjects/03Mathematics/NCERT-Exercise1.3.pdf)
 - [NCERT Exercise 1.4](https://raw.githubusercontent.com/hisayakhere/Mission-ACHIEVE/main/Subjects/03Mathematics/NCERT-Exercise1.4.pdf)
